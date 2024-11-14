@@ -5,8 +5,6 @@ Tarea 3: Teoria de la Firma
 * Rol: 201973623-K
 
 ## Preguntas Conceptuales
-Claro, aquí tienes las respuestas a las preguntas conceptuales basadas en el contenido del documento:
-
 1. Defina el beneficio de una firma, haciendo la diferencia entre la medición de un economista y un contador.
 
 - El beneficio de una firma se define como la diferencia entre los ingresos totales y los costos totales.
@@ -76,11 +74,11 @@ IT = p * x
 
 Para encontrar p en términos de x, despejamos p de la función de demanda:
 
-$$p = frac{4224 − x}{2}$$
+$$p = \frac{4224 − x}{2}$$
 
 Entonces, la función de ingreso total es:
 
-$$IT = frac{4224 − x}{2} * x = frac{4224x − x^2}{2}$$
+$$IT = \frac{4224 − x}{2} * x = frac{4224x − x^2}{2}$$
 
 2. Función de ingreso marginal (IM):
 

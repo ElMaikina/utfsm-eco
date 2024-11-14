@@ -90,8 +90,6 @@ $$IMg = \frac{d(IT)}{dx} = \frac{d}{dx} (\frac{4224x − x^2}{2}) = 2112 - x$$
 
 Derivamos la función de costo total respecto a x:
 
-CM=dxd(C)​=dxd​(5x3+12x+10,000)=15x2+12
-
 $$CMg = \frac{d(C)}{dx} = \frac{d}{dx} (5^3 + 12x + 10000) = 15x^2 + 12$$
 
 4. Condición de equilibrio:
@@ -118,59 +116,82 @@ $$x \approx 11.8$$
 
 Sustituyendo x en la función de demanda para encontrar p:
 
-$$p = \frac{24224 − 11.8}{2} \approx 2116.1$$
+$$p = \frac{4224 − 11.8}{2} \approx 2116.1$$
 
 Pregunta 2b: Número de competidores en el mercado
 
 Para determinar cuántos competidores existen en el mercado, utilizamos la función de costo total y la condición de equilibrio.
 
 1. Costo total de cada firma:
-C(x)=5x3+12x+10,000
+
+$$C(x) = 5x^3 + 12x + 10000$$
 
 2. Costo medio (CM):
-CM=xC(x)​=x5x3+12x+10,000​=5x2+12+x10,000​
+
+$$CM = \frac{C(x)}{x} = \frac{5x^3 + 12x + 10000}{x} = 5x^2 + 12x + \frac{10000}{x}$$
 
 3. Condición de equilibrio:
+
 En equilibrio, el precio es igual al costo medio:
-p=CM
+
+$$p = CM$$
+
 Sustituyendo el precio de equilibrio encontrado:
-2116.1=5(11.8)2+12+11.810,000​
+
+$$2116.1 = 5(11.8)^2 + 12 + \frac{10000}{11.8}$$
 
 4. Resolviendo para x:
+
 Calculamos el costo medio:
-CM≈5(139.24)+12+847.46≈696.2+12+847.46≈1555.66
+
+$$CM \approx 5(139.24) + 12 + 847.46 \approx 696.2 + 12 + 847.46 \approx 1555.66$$
+
 Esto indica que el precio de equilibrio es mayor que el costo medio, lo que sugiere que hay beneficios en el mercado.
 
 5. Número de competidores:
+
 Para encontrar el número de competidores, utilizamos la función de demanda y el precio de equilibrio:
-Qd​=4224−2(2116.1)≈4224−4232.2≈−8.2
+
+$$Qd = 4224 − 2(2116.1) \approx 4224 − 4232.2 \approx −8.2$$
+
 Esto indica que el mercado no puede sostener a tantas firmas a ese precio, por lo que se debe ajustar el número de competidores.
 
 Pregunta 2c: Cambio en la demanda
 
 La nueva función de demanda es:
-X(p)=5746−3p
+
+$$X(p) = 5746 − 3p$$
 
 1. Encontrar el nuevo precio de equilibrio:
+
 Igualamos el nuevo ingreso marginal al costo marginal:
-IM=2112−x
-2112−x=15x2+12
+
+$$IM = 2112 − x$$
+$$2112 − x = 15x^2 + 12$$
+
 Resolviendo la ecuación cuadrática como antes, se puede determinar el nuevo equilibrio.
 
 2. Argumentación:
-Si la nueva demanda es mayor, se espera que el precio de equilibrio aumente, lo que podría atraer a más competidores al mercado. Sin embargo, si los costos son altos, algunas firmas podrían salir del mercado.
+
+Si la nueva demanda es mayor, se espera que el precio de equilibrio aumente, lo que podría atraer a más competidores al mercado. 
+Sin embargo, si los costos son altos, algunas firmas podrían salir del mercado.
 
 Pregunta 2d: Ingresos, costos y beneficios
 
 1. Ingresos de cada firma:
-IT=p⋅x
+
+$$IT = p*x$$
 
 2. Costos de cada firma:
-C(x)=5x3+12x+10,000
+
+$$C(x) = 5x^3 + 12x + 10000$$
 
 3. Beneficios de cada firma:
-Beneficio=IT−C(x)
+
+Beneficio = $$IT − C(x)$$
 
 4. Costos totales del mercado:
-Ctotal​=n⋅C(x)
-donde n es el número de competidores.
+
+$$C_{total} = n*C(x)$$
+
+_donde n es el número de competidores._

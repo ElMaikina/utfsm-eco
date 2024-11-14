@@ -59,18 +59,18 @@ Pregunta 2a: Precio y cantidad de equilibrio
 
 Dada la función de costos totales de largo plazo de cada firma:
 
-C(x) = 5 * 3 + 12x + 10,000
+$$C(x) = 5^3 + 12x + 10000$$
 
 Y la función de demanda del mercado:
 
-X(p) = 4224 − 2p
+$$X(p) = 4224 − 2p$$
 
 Para encontrar el precio y la cantidad de equilibrio, primero necesitamos encontrar la función de ingreso total (IT) y la 
 función de ingreso marginal (IM).
 
 1. Función de ingreso total (IT):
 
-IT = p * x
+$$IT = p * x$$
 
 Para encontrar p en términos de x, despejamos p de la función de demanda:
 
@@ -78,37 +78,47 @@ $$p = \frac{4224 − x}{2}$$
 
 Entonces, la función de ingreso total es:
 
-$$IT = \frac{4224 − x}{2} * x = frac{4224x − x^2}{2}$$
+$$IT = \frac{4224 − x}{2} * x = \frac{4224x − x^2}{2}$$
 
-2. Función de ingreso marginal (IM):
+2. Función de ingreso marginal (IMg):
 
 Derivamos la función de ingreso total respecto a x:
 
-IM=dxd(IT)​=dxd​(24224x−x2​)=24224−2x​=2112−x
+$$IMg = \frac{d(IT)}{dx} = \frac{d}{dx} (\frac{4224x − x^2}{2}) = 2112 - x$$
 
 3. Función de costo marginal (CM):
+
 Derivamos la función de costo total respecto a x:
+
 CM=dxd(C)​=dxd​(5x3+12x+10,000)=15x2+12
 
+$$CMg = \frac{d(C)}{dx} = \frac{d}{dx} (5^3 + 12x + 10000) = 15x^2 + 12$$
+
 4. Condición de equilibrio:
+
 En equilibrio, el ingreso marginal es igual al costo marginal:
-IM=CM
+
+$$IM = CM$$
+
 Entonces, igualamos las dos expresiones:
-2112−x=15x2+12
+
+$$2112 − x = 15x^2 + 12$$
+
 Reorganizamos la ecuación:
-15x2+x−2100=0
+
+$$15x^2 + x − 2100 = x^2 + \frac{x}{15} − \frac{2100}{15} = 0$$
 
 5. Resolviendo la ecuación cuadrática:
-Usamos la fórmula cuadrática x=2a−b±b2−4ac​​, donde a=15, b=1, y c=−2100:
-x=2⋅15−1±12−4⋅15⋅(−2100)​​
-x=30−1±1+126000​​
-x=30−1±126001​​
-Calculamos el valor de x (tomando solo la solución positiva):
-x≈30−1+355.1​≈11.8
+
+Usamos la fórmula cuadrática calculamos el valor de x (tomando solo la solución positiva):
+
+$$x \approx 11.8$$
 
 6. Encontrando el precio de equilibrio:
+
 Sustituyendo x en la función de demanda para encontrar p:
-p=24224−11.8​≈2116.1
+
+$$p = \frac{24224 − 11.8}{2} \approx 2116.1$$
 
 Pregunta 2b: Número de competidores en el mercado
 

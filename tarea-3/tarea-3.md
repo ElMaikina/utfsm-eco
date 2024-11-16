@@ -7,28 +7,27 @@ Tarea 3: Teoria de la Firma
 ## Preguntas Conceptuales
 1. Defina el beneficio de una firma, haciendo la diferencia entre la medición de un economista y un contador.
 
-- El beneficio de una firma se define como la diferencia entre los ingresos totales y los costos totales.
-Un economista mide el beneficio como el beneficio económico, que incluye tanto los costos explícitos como 
-los costos de oportunidad.
+- El beneficio de una firma se define como la cantidad de dinero producido tras la venta de insumos o productos.
+La diferencia principal entre la vision de los economistas y los contadores es que los economistas perciben
+los beneficios de forma marginal, lo cual significa que buscan una proyeccion positiva a futuro y toman en
+consideracion los costos implicitos y explicitos. Por otro lado, los contadores perciben el beneficio como 
+la suma neta de dinero adquirida tras la venta. Esto en terminos matematicos se mide en base a la diferencia 
+entre ingresos y costos totales.
 
 2. En el equilibrio de largo plazo, la curva de oferta siempre tendrá pendiente positiva. Comente.
 
-- En el equilibrio de largo plazo, la curva de oferta tiene pendiente positiva porque a medida que el precio 
-de un bien aumenta, las firmas están incentivadas a aumentar la producción para maximizar sus beneficios. 
-Esto se debe a que los costos marginales de producción tienden a aumentar con el incremento en la cantidad 
-producida, lo que lleva a que las empresas solo estén dispuestas a ofrecer más cantidad a precios más altos.
-
-(Corroborar con PPT)
+- En clases vimos que si los precios de los factores (costos) no cambian, entonces solo puede prevalecer un precio 
+a largo plazo, independiente de como cambie la demanda, es decir, la curva de oferta a largo plazo es una linea 
+horizontal en el nivel de este precio. La curva de oferta tambien puede tender a crecer o decrecer. En el primer 
+caso, hace que aumenten los costos de los factores; la curva de oferta a LP tiene pendiente positiva. Finalmente, 
+en el ultimo caso la entrada disminuye el costo de los factores; la curva de oferta a LP tiene pendiente negativa. 
+Por ende la afirmacion es incorrecta.
 
 3. La relación entre precio y calidad de un bien no es clara, es decir, un bien de peor calidad no necesariamente 
 es más barato.
 
-- Esta afirmación es cierta porque el precio de un bien no siempre refleja su calidad. Existen bienes de alta 
-calidad que pueden tener precios bajos debido a factores como la competencia, la estrategia de marketing o la 
-percepción del consumidor. Asimismo, un bien de baja calidad puede tener un precio elevado si está asociado a 
-una marca reconocida o si hay una escasez en el mercado.
-
-(Mencionar el factor tecnologico)
+- Esto es evidentemente falso, vimos en clases de que el nivel de calidad es parte del factor que maximiza
+el binestar del comprador y se puede formular como modelo matematico.
 
 4. ¿Si una firma decidiera mantenerse en el mercado en el largo plazo, qué condición debería cumplir y por qué?
 
@@ -37,17 +36,16 @@ totales, lo que incluye tanto los costos explícitos como los costos de oportuni
 un beneficio económico igual a cero, lo que es suficiente para que los propietarios de la firma consideren que su 
 inversión es rentable en comparación con otras alternativas.
 
-(Utilizar concepto de Costo Variable y Beneficio)
-
 5. ¿Qué tipo de rendimientos tiene la firma con función de producción F(K, L) = AK^0.6L^0.45? Demuéstrelo.
 
-- Para determinar el tipo de rendimientos, se puede analizar la función de producción. Si se duplica la cantidad 
-de todos los insumos (K y L), se debe observar si la producción se duplica, aumenta más o menos. En este caso, 
-al aplicar el teorema de homogeneidad, se puede ver que la suma de los exponentes (0.6 + 0.45 = 1.05) es mayor que
-1, lo que indica que la firma experimenta rendimientos crecientes a escala.
+- Tendria una funcion de produccion de tipo Cobb-Douglas. Para determinar el tipo de rendimientos, se puede analizar 
+la función de producción. Si se duplica la cantidad de todos los insumos (K y L), se debe observar si la producción 
+se duplica, aumenta más o menos. En este caso, al aplicar el teorema de homogeneidad, se puede ver que la suma de los 
+exponentes (0.6 + 0.45 = 1.05) es mayor que 1, lo que indica que la firma experimenta rendimientos crecientes a escala.
 
 6. Tanto en el corto como en el largo plazo, una firma puede modificar sus factores en aras de incrementar o 
 disminuir producción. Comente.
+
 - En el corto plazo, las firmas pueden ajustar la cantidad de insumos variables (como el trabajo) para aumentar 
 o disminuir la producción, mientras que los insumos fijos (como el capital) son constantes. En el largo plazo, 
 las firmas pueden ajustar todos los factores de producción, incluyendo el capital, lo que les permite adaptarse 
@@ -194,4 +192,4 @@ Beneficio = $$IT − C(x)$$
 
 $$C_{total} = n*C(x)$$
 
-_donde n es el número de competidores._
+donde n es el número de competidores.

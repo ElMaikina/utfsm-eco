@@ -118,41 +118,37 @@ $$p = \frac{4224 − 11.8}{2} \approx 2116.1$$
 
 ### Pregunta 2b: Número de competidores en el mercado
 
-Para determinar cuántos competidores existen en el mercado, utilizamos la función de costo total y la condición de equilibrio.
+Para determinar el número de competidores, necesitamos calcular el ingreso total (IT) y el 
+ingreso marginal (IM). El ingreso total se calcula como:
 
-1. Costo total de cada firma:
+$$IT = P \by x$$
 
-$$C(x) = 5x^3 + 12x + 10000$$
+Sustituyendo los valores:
 
-2. Costo medio (CM):
+$$IT \approx 2104.32 \by 11.82 \approx 24880.00$$
 
-$$CM = \frac{C(x)}{x} = \frac{5x^3 + 12x + 10000}{x} = 5x^2 + 12x + \frac{10000}{x}$$
+El ingreso marginal es igual al costo marginal en equilibrio. Para encontrar el número de 
+competidores, dividimos el ingreso total por el ingreso por firma:
 
-3. Condición de equilibrio:
+Si asumimos que cada firma tiene el mismo ingreso, el número de competidores N se puede calcular como:
 
-En equilibrio, el precio es igual al costo medio:
+$$N = \frac{Ingreso por firma}{IT}$$
 
-$$p = CM$$
+Si asumimos que el ingreso por firma es igual al ingreso total dividido por el número de firmas, y si 
+cada firma produce x:
 
-Sustituyendo el precio de equilibrio encontrado:
+$$N = frac{IT}{P \by x} = \frac{24880.00}{2104.32 \by 11.82}$$
 
-$$2116.1 = 5(11.8)^2 + 12 + \frac{10000}{11.8}$$
+Calculamos N:
 
-4. Resolviendo para x:
+$$N \approx frac{24880.00}{24880.00} = 1$$
 
-Calculamos el costo medio:
+Resultados Finales
 
-$$CM \approx 5(139.24) + 12 + 847.46 \approx 696.2 + 12 + 847.46 \approx 1555.66$$
+- Número de competidores: N = 1
 
-Esto indica que el precio de equilibrio es mayor que el costo medio, lo que sugiere que hay beneficios en el mercado.
-
-5. Número de competidores:
-
-Para encontrar el número de competidores, utilizamos la función de demanda y el precio de equilibrio:
-
-$$Qd = 4224 − 2(2116.1) \approx 4224 − 4232.2 \approx −8.2$$
-
-Esto indica que el mercado no puede sostener a tantas firmas a ese precio, por lo que se debe ajustar el número de competidores.
+Esto indica que, bajo las condiciones dadas, parece que hay un solo competidor en el mercado. Sin embargo,
+este resultado puede variar dependiendo de la interpretación de los ingresos y costos por firma.
 
 ### Pregunta 2c: Cambio en la demanda
 

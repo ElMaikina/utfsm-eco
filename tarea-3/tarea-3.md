@@ -53,7 +53,7 @@ completamente a las condiciones del mercado y optimizar su producción según la
 
 ## Preguntas Matematicas
 
-Pregunta 2a: Precio y cantidad de equilibrio
+### Pregunta 2a: Precio y cantidad de equilibrio
 
 Dada la función de costos totales de largo plazo de cada firma:
 
@@ -116,7 +116,7 @@ Sustituyendo x en la función de demanda para encontrar p:
 
 $$p = \frac{4224 − 11.8}{2} \approx 2116.1$$
 
-Pregunta 2b: Número de competidores en el mercado
+### Pregunta 2b: Número de competidores en el mercado
 
 Para determinar cuántos competidores existen en el mercado, utilizamos la función de costo total y la condición de equilibrio.
 
@@ -154,7 +154,7 @@ $$Qd = 4224 − 2(2116.1) \approx 4224 − 4232.2 \approx −8.2$$
 
 Esto indica que el mercado no puede sostener a tantas firmas a ese precio, por lo que se debe ajustar el número de competidores.
 
-Pregunta 2c: Cambio en la demanda
+### Pregunta 2c: Cambio en la demanda
 
 La nueva función de demanda es:
 
@@ -174,7 +174,7 @@ Resolviendo la ecuación cuadrática como antes, se puede determinar el nuevo eq
 Si la nueva demanda es mayor, se espera que el precio de equilibrio aumente, lo que podría atraer a más competidores al mercado. 
 Sin embargo, si los costos son altos, algunas firmas podrían salir del mercado.
 
-Pregunta 2d: Ingresos, costos y beneficios
+### Pregunta 2d: Ingresos, costos y beneficios
 
 1. Ingresos de cada firma:
 

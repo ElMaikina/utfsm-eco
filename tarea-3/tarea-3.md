@@ -79,7 +79,9 @@ $$Vendedores = \frac{2710}{10}$$ $$Vendedores = 271$$
 
 $$X = 5746 −3p$$
 
-### Por lo que el presidente de la asociación asegura que en el corto plazo eso no presentará un problema debido a que ahora hay competidores que sobran, por ende la nueva demanda será suplida de manera total. ¿Qué le diría´ıa usted al respecto? Argumente con cálculos y explique. Calculamos el valor de la Demanda Total en base al precio fijado anteriormente:
+### Por lo que el presidente de la asociación asegura que en el corto plazo eso no presentará un problema debido a que ahora hay competidores que sobran, por ende la nueva demanda será suplida de manera total. ¿Qué le diría´ıa usted al respecto? Argumente con cálculos y explique. 
+
+Calculamos el valor de la Demanda Total en base al precio fijado anteriormente:
 
 $$X = 5746 - 3(1512) = 1210$$ $$Vendedores = \frac{1210}{10} = 121$$ $$Vendedores Sobrantes = 271 - 121 = 150$$
 

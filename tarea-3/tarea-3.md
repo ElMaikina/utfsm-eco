@@ -1,191 +1,95 @@
 # Economia 1
-Tarea 3: Teoria de la Firma
+## Tarea 3: Teoría de la Firma
 
 * Miguel Soto Delgado
 * Rol: 201973623-K
 
 ## Preguntas Conceptuales
-1. Defina el beneficio de una firma, haciendo la diferencia entre la medición de un economista y un contador.
 
-- El beneficio de una firma se define como la cantidad de dinero producido tras la venta de insumos o productos.
-La diferencia principal entre la vision de los economistas y los contadores es que los economistas perciben
-los beneficios de forma marginal, lo cual significa que buscan una proyeccion positiva a futuro y toman en
-consideracion los costos implicitos y explicitos. Por otro lado, los contadores perciben el beneficio como 
-la suma neta de dinero adquirida tras la venta. Esto en terminos matematicos se mide en base a la diferencia 
-entre ingresos y costos totales.
+### 1. Definir en palabras y matemáticamente el costo medio y costo marginal.
 
-2. En el equilibrio de largo plazo, la curva de oferta siempre tendrá pendiente positiva. Comente.
+El costo medio es lo que cuesta producir una unidad de un cierto producto, mientras que el costo marginal se refiere a cuánto cuesta producir una unidad EXTRA de este mismo producto. La distinción existe en que uno refiere al costo promedio y el otro a el costo agregado dada la cantidad de producción en un punto específico. Por ejemplo, para producir una unidad extra de un bien, me va a costar 20$ (costo marginal), sin embargo, al producir esa unidad extra, yo estaré gastando 100$ y produciendo 10 unidades, por lo que cada unidad me saldría 10$  (costo medio).
 
-- En clases vimos que si los precios de los factores (costos) no cambian, entonces solo puede prevalecer un precio 
-a largo plazo, independiente de como cambie la demanda, es decir, la curva de oferta a largo plazo es una linea 
-horizontal en el nivel de este precio. La curva de oferta tambien puede tender a crecer o decrecer. En el primer 
-caso, hace que aumenten los costos de los factores; la curva de oferta a LP tiene pendiente positiva. Finalmente, 
-en el ultimo caso la entrada disminuye el costo de los factores; la curva de oferta a LP tiene pendiente negativa. 
-Por ende la afirmacion es incorrecta.
+### 2. Defina el beneficio de una firma, haciendo la diferencia entre la medición de un economista y un contador.
 
-3. La relación entre precio y calidad de un bien no es clara, es decir, un bien de peor calidad no necesariamente 
-es más barato.
+El beneficio de una firma se define como la cantidad de dinero producido tras la venta de insumos o productos. La diferencia principal entre la visión de los economistas y los contadores es que los economistas perciben los beneficios de forma marginal, lo cual significa que buscan una proyección positiva a futuro y toman en consideración los costos implícitos y explícitos. Por otro lado, los contadores perciben el beneficio como la suma neta de dinero adquirida tras la venta. Esto en términos matemáticos se mide en base a la diferencia entre ingresos y costos totales.
 
-- Esto es evidentemente falso, vimos en clases de que el nivel de calidad es parte del factor que maximiza
-el binestar del comprador y se puede formular como modelo matematico.
+### 3. En el equilibrio de largo plazo, la curva de oferta siempre tendrá una pendiente positiva. Comente.
 
-4. ¿Si una firma decidiera mantenerse en el mercado en el largo plazo, qué condición debería cumplir y por qué?
+En clases vimos que si los precios de los factores (costos) no cambian, entonces solo puede prevalecer un precio a largo plazo, independiente de cómo cambie la demanda, es decir, la curva de oferta a largo plazo es una línea horizontal en el nivel de este precio. La curva de oferta también puede tender a crecer o decrecer. En el primer caso, hace que aumenten los costos de los factores; la curva de oferta a LP tiene pendiente positiva. Finalmente, en el último caso la entrada disminuye el costo de los factores; la curva de oferta a LP tiene pendiente negativa. Por ende la afirmación es incorrecta.
 
-- Para que una firma se mantenga en el mercado en el largo plazo, debe ser capaz de cubrir al menos sus costos 
-totales, lo que incluye tanto los costos explícitos como los costos de oportunidad. Esto significa que debe obtener 
-un beneficio económico igual a cero, lo que es suficiente para que los propietarios de la firma consideren que su 
-inversión es rentable en comparación con otras alternativas.
+### 4. La relación entre precio y calidad de un bien no es clara, es decir, un bien de peor calidad no necesariamente es más barato.
 
-5. ¿Qué tipo de rendimientos tiene la firma con función de producción F(K, L) = AK^0.6L^0.45? Demuéstrelo.
+Esto es evidentemente falso, vimos en clases que el nivel de calidad es parte del factor que maximiza el bienestar del comprador y se puede formular como modelo matemático.
 
-- Tendria una funcion de produccion de tipo Cobb-Douglas. Para determinar el tipo de rendimientos, se puede analizar 
-la función de producción. Si se duplica la cantidad de todos los insumos (K y L), se debe observar si la producción 
-se duplica, aumenta más o menos. En este caso, al aplicar el teorema de homogeneidad, se puede ver que la suma de los 
-exponentes (0.6 + 0.45 = 1.05) es mayor que 1, lo que indica que la firma experimenta rendimientos crecientes a escala.
+### 5. ¿Si una firma decidiera mantenerse en el mercado en el largo plazo, qué condición debe cumplir y por qué?
 
-6. Tanto en el corto como en el largo plazo, una firma puede modificar sus factores en aras de incrementar o 
-disminuir producción. Comente.
+Para que una firma se mantenga en el mercado en el largo plazo, debe ser capaz de cubrir al menos sus costos totales, lo que incluye tanto los costos explícitos como los costos de oportunidad. Esto significa que debe obtener un beneficio económico igual a cero, lo que es suficiente para que los propietarios de la firma consideren que su inversión es rentable en comparación con otras alternativas.
 
-- En el corto plazo, las firmas pueden ajustar la cantidad de insumos variables (como el trabajo) para aumentar 
-o disminuir la producción, mientras que los insumos fijos (como el capital) son constantes. En el largo plazo, 
-las firmas pueden ajustar todos los factores de producción, incluyendo el capital, lo que les permite adaptarse 
-completamente a las condiciones del mercado y optimizar su producción según la demanda.
+### 6. ¿Que tipo de rendimientos tiene la firma con función de producción F(K, L) = AK0,6L0,45? Demuestrelo.
 
-## Preguntas Matematicas
+Tendría una función de producción CES. Para determinar el tipo de rendimientos, se puede analizar la función de producción. Si se duplica la cantidad de todos los insumos (K y L), se debe observar si la producción se duplica, aumenta más o menos. En este caso, al aplicar el teorema de homogeneidad, se puede ver que la suma de los exponentes (0.6 + 0.45 = 1.05) es mayor que 1, lo que indica que la firma experimenta rendimientos crecientes a escala.
 
-### Pregunta 2a: Precio y cantidad de equilibrio
+### 7. Tanto en el corto como en el largo plazo una firma puede modificar sus factores en aras de incrementar o disminuir la producción. Comente.
 
-Dada la función de costos totales de largo plazo de cada firma:
+En el corto plazo, las firmas pueden ajustar la cantidad de insumos variables (como el trabajo) para aumentar o disminuir la producción, mientras que los insumos fijos (como el capital) son constantes. En el largo plazo, las firmas pueden ajustar todos los factores de producción, incluyendo el capital, lo que les permite adaptarse completamente a las condiciones del mercado y optimizar su producción según la demanda.
 
-$$C(x) = 5^3 + 12x + 10000$$
+## Preguntas Matemáticas
 
-Y la función de demanda del mercado:
+### a) (6 ptos) Los vendedores de bajos están muy complicados y desean saber cual es el precio y cantidad de equilibrio presentes en su mercado. Calcular estos datos para poder ayudar a estos comerciantes.
 
-$$X(p) = 4224 − 2p$$
+Dada la función de costos totales de largo plazo de cada firma: C(x) = $5x^3 + 12x + 10000$ Y la función de demanda del mercado: $X(p) = $4224 − 2p$
 
-Para encontrar el precio y la cantidad de equilibrio, primero necesitamos encontrar la función de ingreso total (IT) y la 
-función de ingreso marginal (IM).
+Nosotros sabemos que el equilibrio a largo plazo se alcanza con las siguientes condiciones:
 
-1. Función de ingreso total (IT):
+* $Q_{oferta} = Q_{demanda}$
+* p = CMg = CMe
 
-$$IT = p * x$$
+Para esto, seguimos desde la segunda condición. Para obtener el Costo Marginal (Mg) tenemos que derivar el Costo Total (CT):
 
-Para encontrar p en términos de x, despejamos p de la función de demanda:
+$$CMg(x) = \frac{d}{dx}(5x^3 + 12x + 10000)$$ 
+$$CMg(x) = 15x^2 + 12$$
 
-$$p = \frac{4224 − x}{2}$$
+Luego, para el Costo Medio (CMe) tenemos que dividir el costo total por la cantidad a producir, en este caso x:
 
-Entonces, la función de ingreso total es:
+$$CMe(x) = \frac{5x^3 + 12x + 10000}{x}$$ 
+$$CMe(x) = 5x^2 + 12 + \frac{10000}{x}$$
 
-$$IT = \frac{4224 − x}{2} * x = \frac{4224x − x^2}{2}$$
+Ahora igualamos ambas ecuaciones:
 
-2. Función de ingreso marginal (IMg):
+$$CMg(x) CMe(x) = \frac{5x^3 + 12x + 10000}{x} = \frac{d}{dx}(5x^3 + 12x + 10000)$$
 
-Derivamos la función de ingreso total respecto a x:
+De esto, nosotros buscamos valores reales y positivos en esta ecuación. Para este caso, la única solución viable es: $x = 10$
 
-$$IMg = \frac{d(IT)}{dx} = \frac{d}{dx} (\frac{4224x − x^2}{2}) = 2112 - x$$
+Finalmente, reemplazamos este valor de x en la función de Costo Marginal (CMg) y hacemos uso de la propiedad: $p = CMg$
 
-3. Función de costo marginal (CM):
+$$p = CMg = 15x^2 + 12 = 15(10)^2 + 12$$ $$p = 1512$$
 
-Derivamos la función de costo total respecto a x:
+### b) (6 ptos) Existe una directiva entre todos los vendedores de bajos y quieren convocar a una reunión para tomar decisiones importantes para el futuro de la música, pero tienen un problema: No saben cuántos competidores existen en este mercado. Le piden a usted que determine cuántos vendedores hay efectivamente en este mercado.
 
-$$CMg = \frac{d(C)}{dx} = \frac{d}{dx} (5^3 + 12x + 10000) = 15x^2 + 12$$
+Visto que en el inciso anterior calculamos todas las condiciones necesarias, solo basta con introducir estos valores en la función de Demanda Total (X(p)) y posteriormente dividirla por la cantidad de ventas por firma (x):
 
-4. Condición de equilibrio:
+$$C = 4224 - 2p$$ $$C = 4224 - 2(1512)$$ $$C = 2710$$
 
-En equilibrio, el ingreso marginal es igual al costo marginal:
+Ahora dividimos por la cantidad de ventas por firma:
 
-$$IM = CM$$
+$$Vendedores = \frac{2710}{10}$$ $$Vendedores = 271$$
 
-Entonces, igualamos las dos expresiones:
+### c) (6 ptos) Durante la reunión anual de productores de bajos eléctricos, la directiva plantea que ha habido un cambio en demanda, debido a que luego de un par de estudios de mercado, se han percatado que ahora está presenta el siguiente comportamiento:
 
-$$2112 − x = 15x^2 + 12$$
+$$X = 5746 −3p$$
 
-Reorganizamos la ecuación:
+### Por lo que el presidente de la asociación asegura que en el corto plazo eso no presentará un problema debido a que ahora hay competidores que sobran, por ende la nueva demanda será suplida de manera total. ¿Qué le diría´ıa usted al respecto? Argumente con cálculos y explique. Calculamos el valor de la Demanda Total en base al precio fijado anteriormente:
 
-$$15x^2 + x − 2100 = x^2 + \frac{x}{15} − \frac{2100}{15} = 0$$
+$$X = 5746 - 3(1512) = 1210$$ $$Vendedores = \frac{1210}{10} = 121$$ $$Vendedores Sobrantes = 271 - 121 = 150$$
 
-5. Resolviendo la ecuación cuadrática:
+Efectivamente se suplirá toda la demanda, sin embargo al mantener el precio fijado, se crea una sobreproducción de guitarras, por que se crearan excedentes en el mercado. De no ser asi, entonces algunos vendedores tendrán que retirarse del negocio.
 
-Usamos la fórmula cuadrática calculamos el valor de x (tomando solo la solución positiva):
+### d) (12 ptos) Finalmente, los productores de bajos eléctricos se dan cuenta de que están en problemas, y necesitan la ayuda de un brillante ingeniero para determinar lo siguiente (tomando en cuenta la situaci´on inicial): ingresos de cada firma, costos de cada firma, beneficios de cada firma y costos totales del mercado.
 
-$$x \approx 11.8$$
+$$IT_{firma} = p * q = 1512 * 10 = 15120$$
+$$CT_{firma} = 5(10)^3 + 12(10) + 10000 = 15120$$ 
+$$Beneficio = IT_{firma} - CT_{firma} = 15120 - 15120 = 0$$
+$$CT_{mercado} = CT_{firma} * Vendedores = 4097520$$
 
-6. Encontrando el precio de equilibrio:
 
-Sustituyendo x en la función de demanda para encontrar p:
-
-$$p = \frac{4224 − 11.8}{2} \approx 2116.1$$
-
-### Pregunta 2b: Número de competidores en el mercado
-
-Para determinar el número de competidores, necesitamos calcular el ingreso total (IT) y el 
-ingreso marginal (IM). El ingreso total se calcula como:
-
-$$IT = P \by x$$
-
-Sustituyendo los valores:
-
-$$IT \approx 2104.32 \by 11.82 \approx 24880.00$$
-
-El ingreso marginal es igual al costo marginal en equilibrio. Para encontrar el número de 
-competidores, dividimos el ingreso total por el ingreso por firma:
-
-Si asumimos que cada firma tiene el mismo ingreso, el número de competidores N se puede calcular como:
-
-$$N = \frac{Ingreso por firma}{IT}$$
-
-Si asumimos que el ingreso por firma es igual al ingreso total dividido por el número de firmas, y si 
-cada firma produce x:
-
-$$N = frac{IT}{P \by x} = \frac{24880.00}{2104.32 \by 11.82}$$
-
-Calculamos N:
-
-$$N \approx frac{24880.00}{24880.00} = 1$$
-
-Resultados Finales
-
-- Número de competidores: N = 1
-
-Esto indica que, bajo las condiciones dadas, parece que hay un solo competidor en el mercado. Sin embargo,
-este resultado puede variar dependiendo de la interpretación de los ingresos y costos por firma.
-
-### Pregunta 2c: Cambio en la demanda
-
-La nueva función de demanda es:
-
-$$X(p) = 5746 − 3p$$
-
-1. Encontrar el nuevo precio de equilibrio:
-
-Igualamos el nuevo ingreso marginal al costo marginal:
-
-$$IM = 2112 − x$$
-$$2112 − x = 15x^2 + 12$$
-
-Resolviendo la ecuación cuadrática como antes, se puede determinar el nuevo equilibrio.
-
-2. Argumentación:
-
-Si la nueva demanda es mayor, se espera que el precio de equilibrio aumente, lo que podría atraer a más competidores al mercado. 
-Sin embargo, si los costos son altos, algunas firmas podrían salir del mercado.
-
-### Pregunta 2d: Ingresos, costos y beneficios
-
-1. Ingresos de cada firma:
-
-$$IT = p*x$$
-
-2. Costos de cada firma:
-
-$$C(x) = 5x^3 + 12x + 10000$$
-
-3. Beneficios de cada firma:
-
-Beneficio = $$IT − C(x)$$
-
-4. Costos totales del mercado:
-
-$$C_{total} = n*C(x)$$
-
-donde n es el número de competidores.

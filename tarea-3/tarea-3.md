@@ -63,17 +63,21 @@ De esto, nosotros buscamos valores reales y positivos en esta ecuación. Para es
 
 Finalmente, reemplazamos este valor de x en la función de Costo Marginal (CMg) y hacemos uso de la propiedad: $p = CMg$
 
-$$p = CMg = 15x^2 + 12 = 15(10)^2 + 12$$ $$p = 1512$$
+$$p = CMg = 15x^2 + 12 = 15(10)^2 + 12$$ 
+$$p = 1512$$
 
 ### b) (6 ptos) Existe una directiva entre todos los vendedores de bajos y quieren convocar a una reunión para tomar decisiones importantes para el futuro de la música, pero tienen un problema: No saben cuántos competidores existen en este mercado. Le piden a usted que determine cuántos vendedores hay efectivamente en este mercado.
 
 Visto que en el inciso anterior calculamos todas las condiciones necesarias, solo basta con introducir estos valores en la función de Demanda Total (X(p)) y posteriormente dividirla por la cantidad de ventas por firma (x):
 
-$$C = 4224 - 2p$$ $$C = 4224 - 2(1512)$$ $$C = 2710$$
+$$C = 4224 - 2p$$ 
+$$C = 4224 - 2(1512)$$ 
+$$C = 2710$$
 
 Ahora dividimos por la cantidad de ventas por firma:
 
-$$Vendedores = \frac{2710}{10}$$ $$Vendedores = 271$$
+$$Vendedores = \frac{2710}{10}$$ 
+$$Vendedores = 271$$
 
 ### c) (6 ptos) Durante la reunión anual de productores de bajos eléctricos, la directiva plantea que ha habido un cambio en demanda, debido a que luego de un par de estudios de mercado, se han percatado que ahora está presenta el siguiente comportamiento:
 
@@ -83,7 +87,9 @@ $$X = 5746 −3p$$
 
 Calculamos el valor de la Demanda Total en base al precio fijado anteriormente:
 
-$$X = 5746 - 3(1512) = 1210$$ $$Vendedores = \frac{1210}{10} = 121$$ $$Vendedores Sobrantes = 271 - 121 = 150$$
+$$X = 5746 - 3(1512) = 1210$$ 
+$$Vendedores = \frac{1210}{10} = 121$$ 
+$$Vendedores Sobrantes = 271 - 121 = 150$$
 
 Efectivamente se suplirá toda la demanda, sin embargo al mantener el precio fijado, se crea una sobreproducción de guitarras, por que se crearan excedentes en el mercado. De no ser asi, entonces algunos vendedores tendrán que retirarse del negocio.
 
